@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Foto Finesse",
+  "description": "Photo Editor",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Foto Finesse",
+  "name": "SnapEdit",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Foto Finesse",
+  "short_name": "SnapEdit",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Foto Finesse",
+      "name": "SnapEdit",
       "url": "",
       "description": ""
     }
